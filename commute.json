@@ -1,13 +1,15 @@
-{
-  "name": "aiko",
-  "age": 20,
-  "gender": "female",
-  "address": {
-    "city": "tokyo",
-    "country": "japan"
+[
+  {
+    "name": "aiko",
+    "age": 15,
+    "gender": "female",
+    "address": {
+      "city": "tokyo",
+      "country": "japan"
+    },
+    "commutingRange": "2024-01-01"
   },
-  "commutingRange": [
-    "2024-01-01",
-    "2024-01-02"
-  ]
-}
+  {
+    "commutingRange": "2024-04-01"
+  }
+]
